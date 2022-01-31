@@ -43,8 +43,8 @@ code {
   --background-modifier-hover: #434c5e !important;
   --background-modifier-accent: #434c5e !important;
   --background-modifier-selected: #434c5e !important;
-  --background-mentioned: rgb(208, 134, 112) !important;
-  --background-mentioned-hover: rgb(208, 134, 112) !important;
+  --background-mentioned: rgba(208, 134, 112, 0.3) !important;
+  --background-mentioned-hover: rgba(208, 134, 112, 0.5) !important;
   --scrollbar-auto-thumb: #3b4252 !important;
   --scrollbar-auto-track: #2e3440 !important;
 }
