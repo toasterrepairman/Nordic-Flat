@@ -1,8 +1,10 @@
 <div align="center" justify="center">
 
-<h2> ❄️ Nordic Glass ❄️ </h2>
+<h2> ❄️ Nordic Flat ❄️ </h2>
 
-A Discord Nord Theme with Transparency in mind!
+A Discord Nord Theme without Transparency in mind.
+
+Fork of the fantastic [Nordic Glass](https://github.com/Curve/Nordic-Glass) theme by [Curve](https://github.com/Curve)
 
 <img src="assets/screenshot.png">
 

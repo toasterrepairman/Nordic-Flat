@@ -15,8 +15,6 @@
   --glasscord-win-blur: blurbehind;
   --glasscord-win-performance-mode: true;
   --glasscord-macos-vibrancy: fullscreen-ui;
-  --font-primary: "SF Pro Display", sans-serif;
-  --font-display: "SF Pro Display", sans-serif;
 }
 
 code {
@@ -25,16 +23,16 @@ code {
 
 .theme-dark,
 .theme-light {
-  --background-floating: #3b4252 !important;
-  --background-primary: rgba(46, 52, 64, 0.4) !important;
-  --background-secondary: rgba(46, 52, 64, 0.4) !important;
+  --background-floating: #2E3440 !important;
+  --background-primary: #2E3440 !important;
+  --background-secondary: #2E3440 !important;
   --background-secondary-alt: #2e3440 !important;
   --brand-experiment: #81a1c1 !important;
-  --brand-experiment-560: rgba(129, 161, 193, 0.8) !important;
-  --brand-experiment-600: rgba(129, 161, 193, 0.5) !important;
-  --channeltextarea-background: #3b4252 !important;
-  --background-tertiary: rgba(46, 52, 64, 0.4) !important;
-  --background-accent: #4c566a !important;
+  --brand-experiment-560: rgb(129, 161, 193) !important;
+  --brand-experiment-600: rgb(129, 161, 193) !important;
+  --channeltextarea-background: #2E3440 !important;
+  --background-tertiary: #2E3440 !important;
+  --background-accent: #353C4A !important;
   --background-modifier-active: #3b4252 !important;
   --text-normal: #d8dee9 !important;
   --text-danger: #bf616a !important;
@@ -45,14 +43,14 @@ code {
   --background-modifier-hover: #434c5e !important;
   --background-modifier-accent: #434c5e !important;
   --background-modifier-selected: #434c5e !important;
-  --background-mentioned: rgba(208, 135, 112, 0.1) !important;
-  --background-mentioned-hover: rgba(208, 135, 112, 0.11) !important;
+  --background-mentioned: rgb(208, 134, 112) !important;
+  --background-mentioned-hover: rgb(208, 134, 112) !important;
   --scrollbar-auto-thumb: #3b4252 !important;
   --scrollbar-auto-track: #2e3440 !important;
 }
 
 .panels-3wFtMD {
-  --background-secondary-alt: rgba(46, 52, 64, 0.4) !important;
+  --background-secondary-alt: #2E3440 !important;
 }
 
 .button-1EGGcP.buttonColor-3bP3fX.buttonActive-Uc1jHx,
@@ -87,11 +85,11 @@ code {
 .callContainer-HtHELf,
 .wrapper-1gVUIN,
 .minimum-fXpVNc {
-  background-color: rgba(46, 52, 64, 0.2) !important;
+  background-color: #2E3440 !important;
 }
 
 .pageWrapper-2PwDoS {
-  background-color: rgba(46, 52, 64, 0.2) !important;
+  background-color: #353C4A !important;
 }
 
 .theme-dark .root-g14mjS {
@@ -99,5 +97,9 @@ code {
 }
 
 .theme-dark .footer-31IekZ {
-  background-color: #3b4252 !important;
+  background-color: #2E3440 !important;
+}
+
+#friends, .friends-header, .friends-table, .guilds-wrapper, .guild-header header, .channels-wrap, .private-channels .search-bar, .private-channels, .guild-channels, .account, .friend-table-add-header, .chat, .content, .title-wrap:not(.search-bar), .messages-wrapper, .messages .divider span, .messages .divider:before, .content, .message-group-blocked, .is-local-bot-message, .channel-members-loading, .channel-members-loading .heading, .channel-members-loading .member, .typing, .container-RYiLUQ, .theme-dark .ui-standard-sidebar-view, .theme-dark .ui-standard-sidebar-view .sidebar-region, .theme-dark .ui-standard-sidebar-view .content-region, .theme-dark .channel-members, .container-2OU7Cz, .theme-dark .chat form, .channels-3g2vYe, .theme-dark .friends-table, .theme-dark .messages-wrapper, .content .flex-spacer, .theme-dark .chat>.content, .theme-dark .chat, .channel-members, .search .search-bar, .container-iksrDt, .container-3lnMWU, .theme-dark .title-qAcLxz, .theme-dark .typing-3eiiL_, .theme-dark .activityFeed-HeiGwL, .theme-dark .headerBar-cxbhPD, .theme-dark .lfg-3xoFkI, .video-3lOWa6, .theme-dark .private-channel-call, .appMount-3VJmYg, .container-2lgZY8, .channels-Ie2l6A, .container-PNkimc, .container-2Thooq, .theme-dark .title-3qD0b-, .theme-dark .typing-2GQL18, .search-bar.search-bar-light, .emojiPicker-3m1S-j .scroller-3vODG7 .emojiItem-109bjA.selected-39BZ4S, .theme-dark .members-1998pB, .activityFeed-28jde9, .card-7JP0BX, .layers, .layer, .links, .chat, .typing, .content, .guild-channels, .private-channels, .guild-header header, .divider-red span, .messages-wrapper, #voice-connection, .layers-20RVFW, .layer-kosS71, .container-2OU7Cz, .typing-3eiiL_, .container-iksrDt, .layers-20RVFW, .aka-2Ba14Z {
+	background: #2E3440 !important;
 }
